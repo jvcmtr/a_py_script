@@ -1,0 +1,1 @@
+Simple project that i made for a friend. gets a file with timestamps in a certain format and increments each of them by one hour.
